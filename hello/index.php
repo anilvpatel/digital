@@ -7,10 +7,7 @@
   
   echo "puneet";
 
-  print_r(<p>
-   Hello kashif we won...
-  
-  </p>);
+ 
 
   
 
