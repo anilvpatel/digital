@@ -7,10 +7,8 @@
   
   echo "puneet";
 
-  print_r(<p>
-   Hello kashif we won...
-  
-  </p>);
+  print_r("<p>Hello World Kashif </p>
+  <p> Hello Puneet</p> " );
 
   
 
